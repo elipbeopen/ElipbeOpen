@@ -1,0 +1,12 @@
+第一步：在 launchpad 中找到“词典”这个软件或者用spotlight搜索“dictionary”或者“词典”来打开；
+第二步：打开这个程序，找到“文件”选项，选择打开词典文件夹；
+第三步：把下载好的词典扩展文件直接拖到上一步打开的文件夹中；
+第三步：在软件选项中找到“服务器偏好设置”，把刚添加的词典勾选；
+第四步：做完以上的所有步骤，新添加的词典就能正常使用了；
+
+
+Step 1: find the "dictionary" software in launchpad or open it by searching for "dictionary" or "dictionary" in spotlight；
+Step 2: open the program, find the "file" option, and select open dictionary folder；
+Step 3: drag the downloaded dictionary extension file directly into the folder opened in the previous step；
+Step 3: go to "server preferences" in the software options and check the dictionary you just added；
+Step 4: after all the above steps, the newly added dictionary can be used normally；

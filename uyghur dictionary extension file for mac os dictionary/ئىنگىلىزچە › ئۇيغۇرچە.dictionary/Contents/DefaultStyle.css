@@ -1,0 +1,32 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+@font-face {  
+	font-family: "UKIJEkran";  
+	src: local('UKIJ Ekran'),
+	url('UKIJEkran.ttf') format('truetype')
+}
+
+d|entry {
+}
+
+h1	{
+	font-size: 150%;
+}
+
+.rtl {
+	direction: rtl;
+	font-family: UKIJEkran;
+	font-size: 18px;
+}
+
+.ltr {
+	direction: ltr;
+}
+
+@media (prefers-dark-interface)
+{
+	body {
+		color: white;
+	}
+}
